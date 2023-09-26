@@ -1,12 +1,13 @@
 [
-  { "name": "yaquote", "value": "yaquote" },
-  { "name": "lemonMilk", "value": "lemonMilk" },
-  { "name": "freebooter", "value": "freebooter" },
-  { "name": "exmouth", "value": "exmouth" },
-  { "name": "elsie", "value": "elsie" },
-  { "name": "dreamland", "value": "dreamland" },
-  { "name": "dancingScript", "value": "dancingScript" },
-  { "name": "alexBrush", "value": "alexBrush" },
-  { "name": "adelioDarmanto", "value": "adelioDarmanto" },
+  { "name": "windsong", "value": "windsongregular" },
+  { "name": "tangerine", "value": "tangerineregular" },
+  { "name": "scriptina", "value": "scriptinaregular" },
+  { "name": "quilline", "value": "quilline_script_thinregular" },
+  { "name": "promocyja", "value": "promocyjamedium" },
+  { "name": "miama", "value": "miamaregular" },
+  { "name": "herr von muellerhoff", "value": "herr_von_muellerhoffregular" },
+  { "name": "gothic ultra", "value": "gothic_ultra_otregular" },
+  { "name": "felipa", "value": "feliparegular" },
+  { "name": "elsie", "value": "elsieregular" },
   { "name": "almendra", "value": "almendra_displayregular" }
 ]
