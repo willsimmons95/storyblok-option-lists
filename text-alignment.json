@@ -1,0 +1,9 @@
+[
+    { "name": "left", "value": "left" },
+    { "name": "right", "value": "right" },
+    { "name": "center", "value": "center" },
+    { "name": "justify", "value": "justify" },
+    { "name": "initial", "value": "initial" },
+    { "name": "inherit", "value": "inherit" }
+  ]
+  
