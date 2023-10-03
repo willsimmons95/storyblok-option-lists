@@ -1,0 +1,5 @@
+[
+  { "name": "button", "value": "button" },
+  { "name": "reset", "value": "reset" },
+  { "name": "submit", "value": "submit" }
+]
