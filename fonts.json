@@ -10,5 +10,6 @@
   { "name": "felipa", "value": "feliparegular" },
   { "name": "elsie", "value": "elsieregular" },
   { "name": "almendra", "value": "almendra_displayregular" },
-  { "name": "bellefair", "value": "bellefairregular" }
+  { "name": "bellefair", "value": "bellefairregular" },
+  { "name": "garamond", "value": "eb_garamond08_regular" }
 ]
