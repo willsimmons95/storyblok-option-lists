@@ -16,6 +16,7 @@
     { "name": "Dark Slate Grey", "hex": "#243E36" },
     { "name": "Holly Green", "hex": "#0B3B03" },
     { "name": "Holly Berry Red", "hex": "#963436" },
-    { "name": "Rose Quartz", "hex": "#AC9FBB" }
+    { "name": "Rose Quartz", "hex": "#AC9FBB" },
+    { "name": "White", "hex": "#FFFFFF" }
   ]
   
