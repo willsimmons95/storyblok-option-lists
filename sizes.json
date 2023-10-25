@@ -1,0 +1,10 @@
+[
+    { "name": "xxsmall", "value": "xxsmall" },
+    { "name": "xsmall", "value": "xsmall" },
+    { "name": "small", "value": "small" },
+    { "name": "medium", "value": "medium" },
+    { "name": "large", "value": "large" },
+    { "name": "xlarge", "value": "xlarge" },
+    { "name": "xxlarge", "value": "xxlarge" }
+  ]
+  
