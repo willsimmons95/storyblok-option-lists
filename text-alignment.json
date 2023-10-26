@@ -3,7 +3,7 @@
     { "name": "right", "value": "right" },
     { "name": "center", "value": "center" },
     { "name": "justify", "value": "justify" },
-    { "name": "initial", "value": "initial" },
-    { "name": "inherit", "value": "inherit" }
+    { "name": "start", "value": "start" },
+    { "name": "end", "value": "end" }
   ]
   
