@@ -1,13 +1,8 @@
 [
     { "name": "auto", "value": "auto" },
-    { "name": "normal", "value": "normal" },
-    { "name": "stretch", "value": "stretch" },
     { "name": "start", "value": "start" },
-    { "name": "left", "value": "left" },
     { "name": "center", "value": "center" },
     { "name": "end", "value": "end" },
-    { "name": "right", "value": "right" },
-    { "name": "initial", "value": "initial" },
-    { "name": "inherit", "value": "inherit" }
+    { "name": "stretch", "value": "stretch" }
   ]
   
