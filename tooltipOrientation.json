@@ -1,6 +1,6 @@
 [
-  { "name": "top", "value": "top" },
-  { "name": "bottom", "value": "bottom" },
-  { "name": "left", "value": "left" },
-  { "name": "right", "value": "right" }
+  { "name": "top", "value": "t" },
+  { "name": "bottom", "value": "b" },
+  { "name": "left", "value": "l" },
+  { "name": "right", "value": "r" }
 ]
